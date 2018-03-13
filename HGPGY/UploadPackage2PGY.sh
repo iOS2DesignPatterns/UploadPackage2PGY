@@ -1,6 +1,13 @@
 
 if [ "$#" -eq "2" ]; then
 
+    # 每次打包自动修改 build , 将其设置成当前的时间, 精确到秒
+    date2Build=`date "+%Y%m%d%H%M%S"`
+    # 路径可根据实际项目做配置
+    InfoPlistFile= "./$1/Info.plist"
+    /usr/libexec/PlistBuddy -c "Set :CFBundleVersion $date2Build" $InfoPlistFile
+
+
     # 构建 .xcarchive 文件
     xcodebuild archive -project "$1".xcodeproj -scheme "$1" -configuration Release -archivePath "$1".xcarchive
 
