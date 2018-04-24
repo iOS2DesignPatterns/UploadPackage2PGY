@@ -13,3 +13,6 @@ sh UploadPackage2PGY.sh <项目名称> <更新日志>
 sh UploadPackage2PGY.sh HGPGY 在使用高大上的脚本做打包上传.
 
 
+
+#### 详情请参考我的简书：：https://www.jianshu.com/p/7fe1c8b44023
+
