@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5187CA48211C24E700408817 /* UploadPackage2PGY.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = UploadPackage2PGY.sh; sourceTree = SOURCE_ROOT; };
 		51BF7F6E20525274006706D0 /* HGPGY.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HGPGY.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		51BF7F7120525274006706D0 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		51BF7F7220525274006706D0 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -58,6 +59,7 @@
 		51BF7F7020525274006706D0 /* HGPGY */ = {
 			isa = PBXGroup;
 			children = (
+				5187CA48211C24E700408817 /* UploadPackage2PGY.sh */,
 				51BF7F7120525274006706D0 /* AppDelegate.h */,
 				51BF7F7220525274006706D0 /* AppDelegate.m */,
 				51BF7F7420525274006706D0 /* ViewController.h */,
