@@ -14,8 +14,7 @@ sh UploadPackage2PGY.sh HGPGY 在使用高大上的脚本做打包上传.
 
 
 
-#### 详情请参考我的简书：：https://www.jianshu.com/p/7fe1c8b44023
-
+#### 详情请参考我的简书：：[神气的 iOS 打包](https://www.jianshu.com/p/7fe1c8b44023) 与 [没有源码的签名与打包（Python+command）](https://www.jianshu.com/p/b87ca19091cc)
 
 ##### 我的更多文章，可以直接看这里[NewStart](https://www.jianshu.com/c/2d0d43c820c8)
 
